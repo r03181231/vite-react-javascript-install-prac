@@ -26,5 +26,7 @@ module.exports = {
     "no-trailing-spaces": "warn",
     "object-curly-spacing": ["warn", "always"],
     "array-bracket-spacing": ["warn", "never"],
+    "arrow-parens": "off",
+    "prefer-arrow-callback": "off",
   },
 };
